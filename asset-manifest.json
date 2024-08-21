@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pratyusha1213/Pratyusha.io/static/css/main.4f08640c.css",
+    "main.js": "/pratyusha1213/Pratyusha.io/static/js/main.9dfddd30.js",
+    "static/js/453.32413256.chunk.js": "/pratyusha1213/Pratyusha.io/static/js/453.32413256.chunk.js",
+    "index.html": "/pratyusha1213/Pratyusha.io/index.html",
+    "main.4f08640c.css.map": "/pratyusha1213/Pratyusha.io/static/css/main.4f08640c.css.map",
+    "main.9dfddd30.js.map": "/pratyusha1213/Pratyusha.io/static/js/main.9dfddd30.js.map",
+    "453.32413256.chunk.js.map": "/pratyusha1213/Pratyusha.io/static/js/453.32413256.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f08640c.css",
+    "static/js/main.9dfddd30.js"
+  ]
+}
