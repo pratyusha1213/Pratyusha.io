@@ -7,12 +7,10 @@ import Experience from './components/Experience';
 const App = () => {
   return (
     <BrowserRouter>
-      <Navbar/>
-      <Routes>
-        <Route path='/' element={<Home/>}/>
-        <Route path='/experience' element={<Experience/>}/>
-      </Routes>
-      <Footer/>
+      <BrowserRouter basename="/Pratyusha.io">
+  {/* Routes */}
+</BrowserRouter>
+
     </BrowserRouter>
   );
 }
